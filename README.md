@@ -1,3 +1,7 @@
+***
+## This prototype was discarded on the 15th of May of 2013
+The application has been **re-written from scratch** based on **AngularJS** + **Leaflet** + **Bootstrap** + **h5bp**.
+***
 # Nigeria Public Oil Monitoring Platform
 
 Mapping platform for oil spill monitoring in Nigeria. Available at <http://nigeria-oil-mapping.github.com/monitoring-platform/>
